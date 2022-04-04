@@ -15,7 +15,9 @@
 
 🎑 Atualmente estou aprendendo sobre HTML5 e CSS3
 
-🎨 Eu adoro ler, assistir filmes e animes e assuntos místicos também
+🎨 Eu adoro ler, assistir filmes e animes e assuntos sobre esoterismo
+
+<img align="right" alt="representação-desenho" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FPLnJxYX0AkS8G9?format=png&name=small">
 
 </br>
 <div> 
