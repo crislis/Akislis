@@ -6,6 +6,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akislis&layout=compact&langs_count=7&theme=react"/>
 </div>
 </br>
+<img align="right" alt="representação-desenho" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FPLnJxYX0AkS8G9?format=png&name=small">
 
 📚 Sou estudante de Sistemas de Informação
 
@@ -16,8 +17,6 @@
 🎑 Atualmente estou aprendendo sobre HTML5 e CSS3
 
 🎨 Eu adoro ler, assistir filmes e animes e assuntos sobre esoterismo
-
-<img align="right" alt="representação-desenho" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FPLnJxYX0AkS8G9?format=png&name=small">
 
 </br>
 <div> 
