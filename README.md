@@ -12,8 +12,6 @@
 
 👩🏽‍💻 Alterando HTML e CSS desde a época dos blogs onde tinha 13 anos, sou apaixonada por Front-end.
 
-🧙🏽‍♀️ Você pode me chamar pelos pronomes ela/dela.
-
 📚 Tenho estudado HTML, CSS e Javascript para conquistar minha sonhada vaga de desenvolvedora!
 
 </br>
