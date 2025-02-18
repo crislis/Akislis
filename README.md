@@ -1,29 +1,24 @@
 ### Olá, sou Crislei 💫
 
 <div align="justify">
-  <a href="https://github.com/Akislis">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Akislis&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akislis&layout=compact&langs_count=7&theme=react"/>
+  <a href="https://github.com/crislis">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=crislis&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crislis&layout=compact&langs_count=7&theme=react"/>
 </div>
 </br>
 <img align="right" alt="representação-desenho" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FPLnJxYX0AkS8G9?format=png&name=small">
 
-👩🏽‍🎓 Sou Bacharel de Sistemas de Informação
+👩🏽‍🎓 Me formei em Sistemas da Informação em 2022 onde defendi minha tese sobre semiótica.
 
-👩🏽‍💻 Na área da tecnologia, o que mais chama a minha atenção são linguagens voltadas ao Front-End
+👩🏽‍💻 Alterando HTML e CSS desde a época dos blogs onde tinha 13 anos, sou apaixonada por Front-end.
 
-🧙🏽‍♀️ Você pode me chamar pelos pronomes ela/dela
+🧙🏽‍♀️ Você pode me chamar pelos pronomes ela/dela.
 
-📚 Atualmente estou aprendendo sobre HTML5 e CSS3
-
-🎨 Tenho vários hobbys como tocar ukulele, jogar lolzinho, assistir documentários, escutar podcasts de true crime, ler sobre esoterismo e várias outras coisas
+📚 Tenho estudado HTML, CSS e Javascript para conquistar minha sonhada vaga de desenvolvedora!
 
 </br>
 <div> 
   <a href="https://www.instagram.com/_akislis/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://twitter.com/Akislis" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/crislei-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "https://open.spotify.com/user/criis_lisboa"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
   <a href = "mailto:crislei.barreto.lisboa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://steamcommunity.com/id/Akislis/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
-  </div>
+</div>
